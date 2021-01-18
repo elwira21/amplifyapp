@@ -24,5 +24,11 @@
         }
       }
     }
+  },
+  "storage": {
+    "bubucket": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation"
+    }
   }
 }
